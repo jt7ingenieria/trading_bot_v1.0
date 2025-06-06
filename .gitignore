@@ -1,0 +1,4 @@
+*.pyc
+*.pkl
+.env
+__pycache__/
